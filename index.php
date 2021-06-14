@@ -7,6 +7,16 @@
     <title>Logger Blogger</title>
 </head>
 <body>
+
+    <header>
+
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Beiträge</a></li>
+            <li><a href="#">Login</a></li>
+        </ul>
+        
+    </header>
     
 </body>
 </html>
